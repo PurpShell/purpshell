@@ -8,5 +8,5 @@ Your average TypeScript (fullstack) dev.
 - Offering freelance and consulting services, DM on discord
 
 ## Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=purpshell&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=purpshell&show_icons=true&hide_title=false&count_private=true&theme=radical&border_color=000000)
 
