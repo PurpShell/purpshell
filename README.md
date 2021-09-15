@@ -3,6 +3,8 @@ Your average TypeScript (fullstack) dev.
 ## Some info for the interested:
 - [Discord](https://discordapp.com/users/448493575093616640) (feel free to DM)
 
+- [Email](mailto:rajeh@reforward.dev) (rajeh@reforward.dev)
+
 - GMT: +2
 
 - Offering freelance and consulting services, DM on discord
