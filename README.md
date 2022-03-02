@@ -1,7 +1,7 @@
 Hey there! I am PurpShell (irl name: Rajeh Taher), and I am a back-end engineer from Lebanon. I have expertise in Node.js, and TypeScript, with good experience in Vue and React.
 
 ## Some info for the interested:
-- [Discord](https://discordapp.com/users/448493575093616640) Message me here if you want to discuss antyhing
+- [Discord](https://discordapp.com/users/448493575093616640): Message me here if you want to discuss antyhing
 
 - Email: rajeh@reforward.dev
 
