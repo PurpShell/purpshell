@@ -11,7 +11,9 @@
 ## Contribution Status
 ![stats](https://github-readme-stats.vercel.app/api?username=purpshell&show_icons=true&hide_title=false&count_private=true&theme=radical&border_color=000000)
 
-- Support my work on open source by donating to my PayPal: [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RajehTaher)
+- Support my work on open source by donating to my PayPal:
+
+    [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RajehTaher) (https://paypal.me/RajehTaher)
 
 
 ## Portfolio
