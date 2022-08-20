@@ -1,4 +1,4 @@
-# PurpShell
+# ![](https://github.com/purpshell/purpshell/blob/main/banner_logo.png)
 ### Name: Rajeh Taher
 #### Born in Lebanon 🇱🇧
 #### Coding for 3 years (hobby and jobs)
