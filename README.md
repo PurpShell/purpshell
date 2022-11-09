@@ -12,11 +12,9 @@ Hey there! I am Rajeh Taher, and I am a high school student from Lebanon :lebano
 - 2 year experience on Upwork & Discord doing freelance projects.
 - I've been coding for **4 years**!
 
-## Skills:
-  - Overall performace:
-
-    ![Overall performance](https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true)
-    ![GitHub Streak](https://streak-stats.demolab.com?user=purpshell&theme=dark)
+## Skills
+![Overall performance](https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=purpshell)
 
   - Communication Skills:
     - Languages:
@@ -85,7 +83,7 @@ Hey there! I am Rajeh Taher, and I am a high school student from Lebanon :lebano
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
     
 
-## Socials:
+## Socials
   - [Discord](https://discordapp.com/users/448493575093616640) which is open for private messages, questions and for business inquiries, Use message requests (did it to prevent spam).
   - [Telegram](https://t.me/purpshell) which is open for everybody.
   - [Email](mailto:rajeh@reforward.dev) for business inquiries. No personal questions over e-mail please.
