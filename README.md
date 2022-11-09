@@ -15,11 +15,8 @@ Hey there! I am Rajeh Taher, and I am a high school student from Lebanon :lebano
 ## Skills:
   - Overall performace:
 
-    ![Overall performance](https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true&theme=transparent)
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=purpshell&theme=dark" />
-      <img src="https://streak-stats.demolab.com?user=purpshell&theme=default" />
-    </picture>
+    ![Overall performance](https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true)
+    ![GitHub Streak](https://streak-stats.demolab.com?user=purpshell&theme=dark)
 
   - Communication Skills:
     - Languages:
