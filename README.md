@@ -5,7 +5,7 @@ Hey there! I am Rajeh Taher, and I am a high school student from Lebanon :lebano
 
 - I use Windows 11(main) & Fedora Linux.
 
-- I have worked for many companies like InterativaChat, Notifpro (formerly BizApp), and an active contributor on [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) and [Baileys](https://github.com/adiwajshing/Baileys).
+- I have worked for many companies like InterativaChat, Notifpro (formerly BizApp), and I am co-founding one. I am an active contributor on [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) and [Baileys](https://github.com/adiwajshing/Baileys).
 
 - Co-founder of [StormChat](https://storm-chat.com) and founder & leader of [Reforward](https://github.com/ReforwardDev) which is the team of people behind [Hypere](https://hypere.xyz).
 
