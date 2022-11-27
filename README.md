@@ -33,7 +33,7 @@ Hey there! I am Rajeh Taher, and I am a high school student from Lebanon :lebano
     ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
     ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-  - Programming languages or frameworks I'm very experienced in (5 or more projects):
+  - Programming languages or frameworks I'm very experienced in (dozen or more projects):
 
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
