@@ -1,5 +1,5 @@
 # PurpShell / Rajeh Taher
-Hey there! I am Rajeh Taher, and I am a high school student from Lebanon :lebanon:.
+Hey there! I am Rajeh Taher, and I am a student experienced in the world of Software Development.
 
 - I love learning about complex systems, reverse engineering and understanding complex concepts. I do Software Development as a part-time job (full-time in the summer) and with great passion.
 
