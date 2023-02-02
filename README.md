@@ -23,6 +23,8 @@ I am comfortable working with large or small groups of people, through video mee
   - BotConversa ( April 2022 ) - Refactor / Bug Fixes ( WhatsApp Web related project )
   - Notifpro ( August 2021 - April 2022 ) - Built 2 of their scalable back-end applications with Node & TS ( WhatsApp Web related )
 
+\* This is only the work I was allowed to disclose details about
+
 <h3>Languages & Tools</h3>
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
