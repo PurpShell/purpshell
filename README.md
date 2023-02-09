@@ -17,13 +17,14 @@ I am comfortable working with large or small groups of people, through video mee
 
 ### Actual Work Experience (sorted by latest):
   - StormChat ( current ) - Founder & CEO ( WhatsApp Web related )
+  - Private freelance job (January 2023) - Cleaned up a Nestjs with nx project & integrated a custom database data store (WhatsApp Web related) 
   - Private freelance job ( November 2022 - December 2022 ) - Private WhatsApp presence monitoring patches for Baileys ( WhatsApp Web related project ) 
   - Stunware ( November 2021 - November 2022 ) - Private libraries and tools for WhatsApp presence monitoring. ( WhatsApp Web related project )
   - InterativaChat (September 2021 - August 2022) - Contracted 3 back-end NodeJS TypeScript applications. ( WhatsApp Web related )
   - BotConversa ( April 2022 ) - Refactor / Bug Fixes ( WhatsApp Web related project )
   - Notifpro ( August 2021 - April 2022 ) - Built 2 of their scalable back-end applications with Node & TS ( WhatsApp Web related )
 
-\* This is only the work I was allowed to disclose details about
+\* This is only the work I was allowed to disclose details about, I have other work experience with other technologies through freelance offers.
 
 <h3>Languages & Tools</h3>
 <p>
