@@ -13,7 +13,7 @@ I am comfortable working with large or small groups of people, through video mee
 - Language Status:
   - English • Native
   - Arabic • Native
-  - French • Learning (level of A3.1)
+  - French • Learning (B1)
 
 ### Actual Work Experience (sorted by latest):
   - StormChat ( current ) - Founder & CEO ( WhatsApp Web related )
