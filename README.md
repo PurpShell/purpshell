@@ -1,6 +1,6 @@
 Hey there, nice to meet you!
           
-My name is Rajeh Taher, I am an expert at writing apps in TypeScript. I do freelance part-time (hit me up on [Discord](https://discordapp.com/users/448493575093616640) or [Upwork]([#socials](https://www.upwork.com/freelancers/~01e23d2f043274a09e)), I'm sure we can figure things out). 
+My name is Rajeh Taher, I am an expert at writing apps in TypeScript & Python(ML). I do freelance part-time (hit me up on [Discord](https://discordapp.com/users/448493575093616640) or [Upwork]([#socials](https://www.upwork.com/freelancers/~01e23d2f043274a09e)), I'm sure we can figure things out). 
 
 I have a deep passion for understanding complex systems, and reverse engineering. My work mostly revolves around messing with private APIs like WhatsApp Web & others.  I love to learn more and I am open to new technology.
 
