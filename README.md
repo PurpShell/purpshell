@@ -6,7 +6,7 @@ I have a deep passion for understanding complex systems, and reverse engineering
 
 ## Skills & Biography
 
-  I have been tinkering since I was 6 years old and I have been programming ever since my teenage years. This has led me to so much expertise as by age 14 I was an expert at TypeScript & Python & lots of other technologies.
+  I have been tinkering since I was 6 years old and I have been programming ever since my teenage years. This has led me to so much expertise as I became an expert at TypeScript & Python & lots of other technologies during my teenage years.
   
 ### Communication Skills:
 I am comfortable working with large or small groups of people, through video meetings. I have used business suites & portals for a few years (Microsoft Office / Zoom / Google Workspace).
