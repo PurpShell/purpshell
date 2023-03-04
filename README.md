@@ -63,4 +63,4 @@ I am comfortable working with large or small groups of people, through video mee
 
 ---
 ![Overall performance](https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=purpshell)
+![GitHub Streak](https://streak-stats.demolab.com/?user=purpshell)
