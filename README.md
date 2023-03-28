@@ -1,22 +1,29 @@
-Hey there, nice to meet you!
+Hey there, nice to meet you! 👋
           
-My name is Rajeh Taher, I am an expert at writing apps in TypeScript & Python(ML). I do freelance part-time (hit me up on [Discord](https://discordapp.com/users/448493575093616640) or [Upwork]([#socials](https://www.upwork.com/freelancers/~01e23d2f043274a09e)), I'm sure we can figure things out). 
+My name is Rajeh Taher, I am an expert at writing apps in TypeScript & Python(ML). 
 
-I have a deep passion for understanding complex systems, and reverse engineering. My work mostly revolves around messing with private APIs like WhatsApp Web & others.  I love to learn more and I am open to new technology.
+I have a deep passion for understanding complex systems, and reverse engineering. My work mostly revolves around messing with private APIs like WhatsApp Web & others.  I love to learn more and I am open to new technology. I am also open to others so hit me up on Discord (purpshell # 7620) and let's have a chat!
 
-## Skills & Biography
+If you or your company uses whatsapp-web.js or Baileys and you would like to contribute to development, I would appreciate if you can sponsor me one-time or monthly on [GitHub Sponsors](https://github.com/sponsors/purpshell). If you are hesitating or unsure, just click the link :D
 
-  I have been tinkering since I was 6 years old and I have been programming ever since my teenage years. This has led me to so much expertise as I became an expert at TypeScript & Python & lots of other technologies during my teenage years.
+## Experience
+
+  I have been tinkering since I was a kid. Computers were a marvel to me and that inspired me to learn programming in my teenage years (I learned JavaScript and HTML at 11 years of age). This has led me to so much expertise as I became an expert at TypeScript & Python & lots of other technologies during my later teenage years (14->15).
   
-### Communication Skills:
-I am comfortable working with large or small groups of people, through video meetings. I have used business suites & portals for a few years (Microsoft Office / Zoom / Google Workspace).
-- Language Status:
+### Human Languages:
   - English • Native
   - Arabic • Native
-  - French • Learning (B1)
+  - French • Learning (B1 spoken; A2 written)
+  - Japanese • Lol I suck (but I have 4,000 episodes of anime on my back so daijobo ore)
+
+### Recruitment and Work:
+  - I am **open** for hire at the moment. (as of 30-03-23)
+  - Communication methods: Discord, Slack, Google Meet/Google Workspace, WhatsApp (not preferred though).
+  - You can find me on Upwork (Rajeh Taher) for security and ease of mind (preferred) or you can message me with your offer directly on Discord.
 
 ### Actual Work Experience (sorted by latest):
   - StormChat ( current ) - Founder & CEO ( WhatsApp Web related )
+  - Stunware ( Februrary 2023 - current ) - Back-end engineer for Geolink _coming soon_.
   - Private freelance job (January 2023) - Cleaned up a Nestjs with nx project & integrated a custom database data store (WhatsApp Web related) 
   - Private freelance job ( November 2022 - December 2022 ) - Private WhatsApp presence monitoring patches for Baileys ( WhatsApp Web related project ) 
   - Stunware ( November 2021 - November 2022 ) - Private libraries and tools for WhatsApp presence monitoring. ( WhatsApp Web related project )
