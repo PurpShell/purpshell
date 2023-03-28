@@ -61,9 +61,8 @@ I am comfortable working with large or small groups of people, through video mee
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" width="40" height="40"/>
 </p>
 
----
 <h2 align="center">Real-time performance statistics</h2>
-<p align="center">
+<p align="center" float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true"/>
   <img src="https://streak-stats.demolab.com/?user=purpshell" /> 
 </p>
