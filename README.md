@@ -13,7 +13,7 @@ If you or your company uses whatsapp-web.js or Baileys and you would like to con
 ### Human Languages:
   - English • Native
   - Arabic • Native
-  - French • Learning (B1 spoken; A2 written)
+  - French • Learning (B1 spoken; A2.2 written)
   - Japanese • Lol I suck (but I have 4,000 episodes of anime on my back so daijobo ore)
 
 ### Recruitment and Work:
