@@ -62,5 +62,8 @@ I am comfortable working with large or small groups of people, through video mee
 </p>
 
 ---
-![Overall performance](https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=purpshell)
+<h2 align="center">Real-time performance statistics</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true"/>
+  <img src="https://streak-stats.demolab.com/?user=purpshell" /> 
+</p>
