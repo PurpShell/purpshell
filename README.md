@@ -64,7 +64,7 @@ I am comfortable working with large or small groups of people, through video mee
 <h2 align="center">Real-time performance statistics</h2>
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=purpshell" />
   <img src="https://api.githubtrends.io/user/svg/PurpShell/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&compact=True&theme=classic"/>
   <img src="https://api.githubtrends.io/user/svg/PurpShell/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
+  <img src="https://streak-stats.demolab.com/?user=purpshell" />
 </p>
