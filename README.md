@@ -63,6 +63,6 @@ I am comfortable working with large or small groups of people, through video mee
 
 <h2 align="center">Real-time performance statistics</h2>
 <p align="center" float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true" />
   <img src="https://streak-stats.demolab.com/?user=purpshell" /> 
 </p>
