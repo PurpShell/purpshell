@@ -14,7 +14,6 @@ If you or your company uses whatsapp-web.js or Baileys and you would like to con
   - English • Native
   - Arabic • Native
   - French • Learning (B1 spoken; A2.2 written)
-  - Japanese • Lol I suck (but I have 4,000 episodes of anime on my back so daijobo ore)
 
 ### Recruitment and Work:
   - I am **open** for hire at the moment. (as of 30-03-23)
