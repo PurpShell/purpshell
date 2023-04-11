@@ -1,8 +1,8 @@
 Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps in TypeScript. 
 
 <img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/languages.png" width="256" height="256"/>
-<img align="right" src="https://api.githubtrends.io/user/svg/PurpShell/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&compact=True&theme=classic"/>
 <img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/socials.png" width="224" height="176"/>
+<img align="right" src="https://api.githubtrends.io/user/svg/PurpShell/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&compact=True&theme=classic"/>
 <img align="right" src="https://api.githubtrends.io/user/svg/PurpShell/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
 
   - 🔭 My special skills for reverse engineering and my love for complex systems (like WhatsApp Web, which I research extensively daily), have made me where I am today in the community. I work on and maintain [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) and [Baileys](https://github.com/adiwajshing/Baileys) in my free time.
@@ -44,9 +44,7 @@ Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps i
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" width="40" height="40"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true" />
+    <img align="right" src="https://streak-stats.demolab.com/?user=purpshell" />
 </p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true" />
-
-<img align="right" src="https://streak-stats.demolab.com/?user=purpshell" />
 
