@@ -2,8 +2,6 @@ Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps i
 
 <img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/languages.png" width="256" height="256"/>
 <img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/socials.png" width="224" height="176"/>
-<img align="right" src="https://api.githubtrends.io/user/svg/PurpShell/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&compact=True&theme=classic"/>
-<img align="right" src="https://api.githubtrends.io/user/svg/PurpShell/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
 
   - 🔭 My special skills for reverse engineering and my love for complex systems (like WhatsApp Web, which I research extensively daily), have made me where I am today in the community. I work on and maintain [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) and [Baileys](https://github.com/adiwajshing/Baileys) in my free time.
   - 📗 I love to learn more and I am open to new technology. I am also open to others, hit me up on Discord (purpshell # 7620) and let's have a chat!
