@@ -1,39 +1,18 @@
-Hey there, nice to meet you! 👋
-          
-My name is Rajeh Taher, I am an expert at writing apps in TypeScript & Python(ML). 
+Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps in TypeScript. 
 
-I have a deep passion for understanding complex systems, and reverse engineering. My work mostly revolves around messing with private APIs like WhatsApp Web & others.  I love to learn more and I am open to new technology. I am also open to others so hit me up on Discord (purpshell # 7620) and let's have a chat!
+<img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/languages.png" width="256" height="256"/>
+<img align="right" src="https://api.githubtrends.io/user/svg/PurpShell/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&compact=True&theme=classic"/>
+<img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/socials.png" width="448" height="352"/>
+<img align="right" src="https://api.githubtrends.io/user/svg/PurpShell/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
 
-If you or your company uses whatsapp-web.js or Baileys and you would like to contribute to development, I would appreciate if you can sponsor me one-time or monthly on [GitHub Sponsors](https://github.com/sponsors/purpshell). If you are hesitating or unsure, just click the link :D
+  - 🔭 My special skills for reverse engineering and my love for complex systems (like WhatsApp Web, which I research extensively daily), have made me where I am today in the community. I work on and maintain [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) and [Baileys](https://github.com/adiwajshing/Baileys) in my free time.
+  - 📗 I love to learn more and I am open to new technology. I am also open to others, hit me up on Discord (purpshell # 7620) and let's have a chat!
+  - 💼 I am open for hire, we can chat on Discord or we can address work through Upwork.
+  - ❤️ Support my open source work on Baileys and whatsapp-web.js through GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell) _(any amount appreciated)_.
+  - 🧰 I have been tinkering since I was a kid. I began programming since I was 11 years old and I learned TypeScript and Node when I was 13.
 
-## Experience
-
-  I have been tinkering since I was a kid. Computers were a marvel to me and that inspired me to learn programming in my teenage years (I learned JavaScript and HTML at 11 years of age). This has led me to so much expertise as I became an expert at TypeScript & Python & lots of other technologies during my later teenage years (14->15).
-  
-### Human Languages:
-  - English • Native
-  - Arabic • Native
-  - French • Learning (B1 spoken; A2.2 written)
-
-### Recruitment and Work:
-  - I am **open** for hire at the moment. (as of 30-03-23)
-  - Communication methods: Discord, Slack, Google Meet/Google Workspace, WhatsApp (not preferred though).
-  - You can find me on Upwork (Rajeh Taher) for security and ease of mind (preferred) or you can message me with your offer directly on Discord.
-
-### Actual Work Experience (sorted by latest):
-  - StormChat ( current ) - Founder & CEO ( WhatsApp Web related )
-  - Stunware ( Februrary 2023 - current ) - Back-end engineer for Geolink _coming soon_.
-  - Private freelance job (January 2023) - Cleaned up a Nestjs with nx project & integrated a custom database data store (WhatsApp Web related) 
-  - Private freelance job ( November 2022 - December 2022 ) - Private WhatsApp presence monitoring patches for Baileys ( WhatsApp Web related project ) 
-  - Stunware ( November 2021 - November 2022 ) - Private libraries and tools for WhatsApp presence monitoring. ( WhatsApp Web related project )
-  - InterativaChat (September 2021 - August 2022) - Contracted 3 back-end NodeJS TypeScript applications. ( WhatsApp Web related )
-  - BotConversa ( April 2022 ) - Refactor / Bug Fixes ( WhatsApp Web related project )
-  - Notifpro ( August 2021 - April 2022 ) - Built 2 of their scalable back-end applications with Node & TS ( WhatsApp Web related )
-
-\* This is only the work I was allowed to disclose details about, I have other work experience with other technologies through freelance offers.
-
-<h3>Languages & Tools</h3>
-<p>
+<h2>Programming Languages and Tools (hover for name)</h2>
+<p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" title="Redis" width="40" height="40"/>
@@ -67,10 +46,7 @@ If you or your company uses whatsapp-web.js or Baileys and you would like to con
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" width="40" height="40"/>
 </p>
 
-<h2 align="center">Real-time performance statistics</h2>
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true" />
-  <img src="https://api.githubtrends.io/user/svg/PurpShell/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&compact=True&theme=classic"/>
-  <img src="https://api.githubtrends.io/user/svg/PurpShell/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
-  <img src="https://streak-stats.demolab.com/?user=purpshell" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true" />
+
+<img align="right" src="https://streak-stats.demolab.com/?user=purpshell" />
+
