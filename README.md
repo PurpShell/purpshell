@@ -10,6 +10,8 @@ Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps i
   - 🧰 I have been tinkering since I was a kid. I began programming since I was 11 years old and I learned TypeScript and Node when I was 13.
 
 <h2>Programming Languages and Tools (hover for name)</h2>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true" />
+<img align="right" src="https://streak-stats.demolab.com/?user=purpshell" />
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
@@ -42,7 +44,5 @@ Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps i
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" width="40" height="40"/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true" />
-    <img align="right" src="https://streak-stats.demolab.com/?user=purpshell" />
 </p>
 
