@@ -44,5 +44,8 @@ Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps i
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" width="40" height="40"/>
+    <img align="right" src="https://api.githubtrends.io/user/svg/PurpShell/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
+    <img align="right" src="https://api.githubtrends.io/user/svg/PurpShell/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&compact=True&theme=classic"/>
 </p>
+
 
