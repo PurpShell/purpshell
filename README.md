@@ -1,4 +1,4 @@
-Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps in TypeScript. **I am famously 15 years old**
+Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps in TypeScript.
 
 <img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/languages.png" width="256" height="256"/>
 <img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/socials.png" width="224" height="176"/>
