@@ -1,17 +1,11 @@
-Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps in TypeScript.
+Teen with really good programming skills, only.
 
-<img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/languages.png" width="256" height="256"/>
-<img align="right" src="https://raw.githubusercontent.com/PurpShell/purpshell/main/socials.png" width="224" height="176"/>
-
-  - 🔭 My special skills for reverse engineering and my love for complex systems (like WhatsApp Web, which I research extensively daily), have made me where I am today in the community. I work on and maintain [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) and [Baileys](https://github.com/adiwajshing/Baileys) in my free time.
-  - 📗 I love to learn more and I am open to new technology. I am also open to others, hit me up on Discord (purpshell # 7620) and let's have a chat!
-  - 💼 I am open for hire, we can chat on Discord or we can address work through Upwork.
-  - ❤️ Support my open source work on Baileys and whatsapp-web.js through GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell) _(any amount appreciated)_.
+  - 🔭 My love for understanding complex systems keeps me fascinated.
+  - 📗 I love to learn more and I am open to new technology.
+  - ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell) _(any amount appreciated)_.
   - 🧰 I have been tinkering since I was a kid. I began programming since I was 11 years old and I learned TypeScript and Node when I was 13.
 
 <h2>Programming Languages and Tools (hover for name)</h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=purpshell&count_private=true" />
-<img align="right" src="https://streak-stats.demolab.com/?user=purpshell" />
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
@@ -44,8 +38,6 @@ Hey there! My name is Rajeh Taher, I am an expert at writing all sorts of apps i
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" width="40" height="40" />
-    <img src="https://api.githubtrends.io/user/svg/PurpShell/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&compact=True&theme=classic"/>
-    <img src="https://api.githubtrends.io/user/svg/PurpShell/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
 </p>
 
 
