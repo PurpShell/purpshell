@@ -1,4 +1,4 @@
-Teenager with really good programming skills.
+Hello!
 
   - 🔭 My love for understanding complex systems keeps me fascinated.
   - 📗 I love to learn more and I am open to new technology.
