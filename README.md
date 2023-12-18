@@ -3,7 +3,7 @@ Hello!
   - 🔭 My love for understanding complex systems keeps me fascinated.
   - 📗 I love to learn more and I am open to new technology.
   - ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell).
-  - 🧰 I have been tinkering since I was a kid. I began programming since I was 11 years old and I learned TypeScript and Node when I was 13.
+  - 🧰 I have been tinkering since I was a kid. I learned how to modify the registry in Windows when I was 8, I began programming since I was 11 years old and I learned TypeScript and Node when I was 13. 
 
 <h2>Programming Languages and Tools (hover for name)</h2>
 
