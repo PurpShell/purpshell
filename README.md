@@ -1,11 +1,12 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 
-Hello!
+Hello! I am working on [whatsmeow](https://github.com/tulir/whatsmeow), [Baileys](https://github.com/whiskeysockets/Baileys) and [WWebJS](https://github.com/pedroslopez/whatsapp-web.js).
 
   - 🔭 My love for understanding complex systems keeps me fascinated.
   - 📗 I love to learn more and I am open to new technology.
   - ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell).
-  - 🧰 I have been tinkering since I was a kid. I learned how to modify the registry in Windows when I was 8, I began programming since I was 11 years old and I learned TypeScript and Node when I was 13. 
+  - 🧰 I have been tinkering since I was a kid. I learned how to modify the registry in Windows when I was 8, I began programming since I was 11 years old and I learned TypeScript and Node when I was 13.
+  - Proud Lebanese 🇱🇧
 
 <h2>On a daily basis (hover for names)</h2>
 <h3>Languages</h3>
@@ -20,14 +21,15 @@ Hello!
   
 </p>
 
-<h3>Databases & Communication</h3>
+<h3>Infrastructure</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" title="Redis" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/matrix" title="Matrix"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"  height="40" width="40" title="Docker"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" />
 </p>
