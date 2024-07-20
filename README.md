@@ -1,6 +1,6 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 
-Hello! I am working on [whatsmeow](https://github.com/tulir/whatsmeow), [Baileys](https://github.com/whiskeysockets/Baileys) and [WWebJS](https://github.com/pedroslopez/whatsapp-web.js).
+Hello! I am working on building [bridges](https://github.com/mautrix/whatsapp) @Beeper with [whatsmeow](https://github.com/tulir/whatsmeow), and APIs and other projects with [Baileys](https://github.com/whiskeysockets/Baileys) & [WWebJS](https://github.com/pedroslopez/whatsapp-web.js).
 
   - 🔭 My love for understanding complex systems keeps me fascinated.
   - 📗 I love to learn more and I am open to new technology.
