@@ -1,10 +1,9 @@
-Hello! I am working on building [bridges](https://github.com/mautrix/whatsapp) @Beeper with [whatsmeow](https://github.com/tulir/whatsmeow), and APIs and other projects with [Baileys](https://github.com/whiskeysockets/Baileys) & [WWebJS](https://github.com/pedroslopez/whatsapp-web.js).
+Hello! I am working on building bridges [(WA)](https://github.com/mautrix/whatsapp) @ [Beeper](https://github.com/beeper) with [whatsmeow](https://github.com/tulir/whatsmeow), and APIs and other projects with [Baileys](https://github.com/whiskeysockets/Baileys) & [WWebJS](https://github.com/pedroslopez/whatsapp-web.js).
 
-  - 🔭 My love for understanding complex systems keeps me fascinated.
-  - 📗 I love to learn more and I am open to new technology.
-  - ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell).
-  - 🧰 I have been tinkering since I was a kid. I learned how to modify the registry in Windows when I was 8, I began programming since I was 11 years old and I learned TypeScript and Node when I was 13.
   - Proud Lebanese 🇱🇧
+  - 📗 I love to learn more and I am open to new technology, cultures, languages and more.
+  - ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell).
+  - 🧰 I have been tinkering since I was a kid. I reached the depths of regedit in Windows when I was just 8, I began programming when I was 11 years old.
 
 <h2>On a daily basis (hover for names)</h2>
 <h3>Languages</h3>
