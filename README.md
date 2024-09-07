@@ -1,4 +1,4 @@
-Hello! I am working on building bridges [(WA)](https://github.com/mautrix/whatsapp) @ [Beeper](https://github.com/beeper) with [whatsmeow](https://github.com/tulir/whatsmeow), and APIs and other projects with [Baileys](https://github.com/whiskeysockets/Baileys) & [WWebJS](https://github.com/pedroslopez/whatsapp-web.js).
+Open-source contributor
 
   - Proud Lebanese 🇱🇧
   - 📗 I love to learn more and I am open to new technology, cultures, languages and more.
