@@ -5,7 +5,8 @@ Open-source contributor
   - ❤️ Support my open source work on GitHub Sponsors, check out my profile [here](https://github.com/sponsors/purpshell).
   - 🧰 I have been tinkering since I was a kid. I reached the depths of regedit in Windows when I was just 8, I began programming when I was 11 years old.
 
-<h2>On a daily basis (hover for names)</h2>
+  <details><summary>What I use on a daily basis</summary>
+
 <h3>Languages</h3>
 <p>
 
@@ -74,4 +75,4 @@ Open-source contributor
 <img height="40" width="40" src="https://cdn.simpleicons.org/protonvpn" title="ProtonVPN"/>
 </p>
 </p>
-
+</details>
